@@ -1,0 +1,115 @@
+1695198499538	geckodriver	INFO	Listening on 127.0.0.1:40371
+1695198499572	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMorvU0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695198500102	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695198500249	Marionette	INFO	Listening on port 35339
+WebDriver BiDi listening on ws://127.0.0.1:54989
+Read port: 35339
+1695198500415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54989/devtools/browser/03b93165-bebf-4d9b-9e59-b18dec3ecab2
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1695198502787	Marionette	INFO	Stopped listening on port 35339
+1695198847697	geckodriver	INFO	Listening on 127.0.0.1:38983
+1695198847715	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF1IQ7v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695198848055	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695198848125	Marionette	INFO	Listening on port 43333
+WebDriver BiDi listening on ws://127.0.0.1:56563
+Read port: 43333
+1695198848299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56563/devtools/browser/1c3790c4-113c-49dd-b735-0d3b37fbae01
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+Cz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:439:134
+Dz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:439:111
+
+1695198854094	Marionette	INFO	Stopped listening on port 43333
+1695198925282	geckodriver	INFO	Listening on 127.0.0.1:51643
+1695198925300	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2SuIr8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695198925650	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695198925720	Marionette	INFO	Listening on port 45503
+WebDriver BiDi listening on ws://127.0.0.1:51277
+Read port: 45503
+1695198925892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51277/devtools/browser/b0cda4a5-9bd1-4554-80ff-34e2ad8fc6f9
+JavaScript warning: https://cdn.oaistatic.com/_next/static/chunks/pages/_app-4515300a784903b0.js, line 11: Script terminated by timeout at:
+82534/eB/<@https://cdn.oaistatic.com/_next/static/chunks/pages/_app-4515300a784903b0.js:11:581353
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=8098bc64c9266253, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=8098bcf76add6253, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_api/v1?ray=8098bd2fb9d96253, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695198974771	Marionette	INFO	Stopped listening on port 45503
+1695199118941	geckodriver	INFO	Listening on 127.0.0.1:56949
+1695199118958	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile89DwCL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695199119295	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695199119368	Marionette	INFO	Listening on port 42749
+WebDriver BiDi listening on ws://127.0.0.1:58585
+Read port: 42749
+1695199119536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58585/devtools/browser/b8902d52-43a6-426d-b806-2cdb766e5ab7
+JavaScript warning: https://cdn.oaistatic.com/_next/static/chunks/pages/_app-4515300a784903b0.js, line 11: Script terminated by timeout at:
+82534/rj/B</V<@https://cdn.oaistatic.com/_next/static/chunks/pages/_app-4515300a784903b0.js:11:612932
+eF@https://cdn.oaistatic.com/_next/static/chunks/pages/_app-4515300a784903b0.js:11:581417
+82534/eB/<@https://cdn.oaistatic.com/_next/static/chunks/pages/_app-4515300a784903b0.js:11:581363
+
+1695199130077	Marionette	INFO	Stopped listening on port 42749
+1695290450748	geckodriver	INFO	Listening on 127.0.0.1:55305
+1695290451310	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWwGbAs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695290451841	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695290451992	Marionette	INFO	Listening on port 34423
+WebDriver BiDi listening on ws://127.0.0.1:59267
+Read port: 34423
+1695290452153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59267/devtools/browser/6ead4ac6-04f5-43f5-9815-74973953fe43
+1695290456071	Marionette	INFO	Stopped listening on port 34423
+[5844] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1695290480240	geckodriver	INFO	Listening on 127.0.0.1:36387
+1695290480285	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLXnJGB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695290480639	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695290480740	Marionette	INFO	Listening on port 41949
+WebDriver BiDi listening on ws://127.0.0.1:60623
+Read port: 41949
+1695290480891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60623/devtools/browser/8f6acf20-a999-40ed-9c61-e9f7c66a4787
+1695290484623	Marionette	INFO	Stopped listening on port 41949
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
