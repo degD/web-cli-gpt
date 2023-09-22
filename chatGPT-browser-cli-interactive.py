@@ -12,6 +12,7 @@ from selenium.webdriver.common.by import By
 
 # Start chromium with
 # chromium --remote-debugging-port=9222
+# Then login at chat.openai.com
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option("debuggerAddress", "localhost:9222")
