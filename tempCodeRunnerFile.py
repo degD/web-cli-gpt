@@ -1,1 +1,0 @@
-conversation_data.append(chatgpt[i])
